@@ -17,7 +17,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 To Do List<a name="about-project"></a>
 
 **Awesome-Books** This is the online Bookstore that shows the list of the books by Authors.
 
